@@ -1,8 +1,8 @@
 {
 	"name": "lhscaffold",
-	"displayName": "蓝湖脚手架",
+	"displayName": "LHScaffold",
 	"description": "蓝湖图片资源压缩包导入工具",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository": "https://github.com/muyuballs/lhscaffold.git",
 	"publisher": "muyuballs",
 	"engines": {
